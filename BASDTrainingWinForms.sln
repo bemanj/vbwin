@@ -1,7 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BASDTrainingWinForms.UI", "BASDTrainingWinForms.UI\BASDTrainingWinForms.UI.vbproj", "{795701D3-271E-4D03-AF9D-FCC91010A72D}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{795701D3-271E-4D03-AF9D-FCC91010A72D}.Debug|x86.ActiveCfg = Debug|x86
+		{795701D3-271E-4D03-AF9D-FCC91010A72D}.Debug|x86.Build.0 = Debug|x86
+		{795701D3-271E-4D03-AF9D-FCC91010A72D}.Release|x86.ActiveCfg = Release|x86
+		{795701D3-271E-4D03-AF9D-FCC91010A72D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
