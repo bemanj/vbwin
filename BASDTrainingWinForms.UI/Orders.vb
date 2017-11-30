@@ -20,7 +20,7 @@
 
     Private Sub Orders_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Me.OrderDataGridView.DataSource = _listOfOrders
-        Me.Or()
+        'Me.Or()
         'Me.OrderDataGridView
     End Sub
 
