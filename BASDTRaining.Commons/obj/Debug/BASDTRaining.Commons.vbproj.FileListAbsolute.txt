@@ -8,3 +8,14 @@ C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\
 C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTRaining.Commons\obj\Debug\BASDTRaining.Commons.dll
 C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTRaining.Commons\obj\Debug\BASDTRaining.Commons.xml
 C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTRaining.Commons\obj\Debug\BASDTRaining.Commons.pdb
+C:\Users\rm004134263\source\repos\vbwin\BASDTRaining.Commons\bin\Debug\BASDTRaining.Commons.dll
+C:\Users\rm004134263\source\repos\vbwin\BASDTRaining.Commons\bin\Debug\BASDTRaining.Commons.pdb
+C:\Users\rm004134263\source\repos\vbwin\BASDTRaining.Commons\bin\Debug\BASDTRaining.Commons.xml
+C:\Users\rm004134263\source\repos\vbwin\BASDTRaining.Commons\bin\Debug\Cipher.dll
+C:\Users\rm004134263\source\repos\vbwin\BASDTRaining.Commons\bin\Debug\Cipher.pdb
+C:\Users\rm004134263\source\repos\vbwin\BASDTRaining.Commons\obj\Debug\BASDTRaining.Commons.vbprojResolveAssemblyReference.cache
+C:\Users\rm004134263\source\repos\vbwin\BASDTRaining.Commons\obj\Debug\BASDTRaining.Commons.Resources.resources
+C:\Users\rm004134263\source\repos\vbwin\BASDTRaining.Commons\obj\Debug\BASDTRaining.Commons.vbproj.GenerateResource.Cache
+C:\Users\rm004134263\source\repos\vbwin\BASDTRaining.Commons\obj\Debug\BASDTRaining.Commons.dll
+C:\Users\rm004134263\source\repos\vbwin\BASDTRaining.Commons\obj\Debug\BASDTRaining.Commons.xml
+C:\Users\rm004134263\source\repos\vbwin\BASDTRaining.Commons\obj\Debug\BASDTRaining.Commons.pdb
