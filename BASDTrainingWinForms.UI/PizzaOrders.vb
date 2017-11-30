@@ -1,5 +1,17 @@
 ﻿Public Class PizzaOrders
 
+
+    Private _orderNumber As Integer
+    Public Property OrderNumber() As Integer
+        Get
+            Return _orderNumber
+        End Get
+        Set(ByVal value As Integer)
+            _orderNumber = value
+        End Set
+    End Property
+
+
     Private _customerName As String
     Public Property CustomerName() As String
         Get
@@ -30,5 +42,26 @@
         End Set
     End Property
 
+
+    Private _orderStatus As String
+    Public Property OrderStatus() As String
+        Get
+            Return _orderStatus
+        End Get
+        Set(ByVal value As String)
+            _orderStatus = value
+        End Set
+    End Property
+
+
+    Private _customerContact As String
+    Public Property CustomerContact() As String
+        Get
+            Return _customerContact
+        End Get
+        Set(ByVal value As String)
+            _customerContact = value
+        End Set
+    End Property
 
 End Class

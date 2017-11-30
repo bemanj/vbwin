@@ -35,6 +35,12 @@ Partial Class Orders
         Me.Label3 = New System.Windows.Forms.Label()
         Me.OpenOrderButton = New System.Windows.Forms.Button()
         Me.CloseOrderButton = New System.Windows.Forms.Button()
+        Me.OrderNumber = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.CustomerName = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.CustomerContact = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DeliveryAddress = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.PizzaSize = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Status = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.MenuStrip1.SuspendLayout()
         Me.Panel1.SuspendLayout()
         CType(Me.OrderDataGridView, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -72,9 +78,12 @@ Partial Class Orders
         'OrderDataGridView
         '
         Me.OrderDataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.OrderDataGridView.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.OrderNumber, Me.CustomerName, Me.CustomerContact, Me.DeliveryAddress, Me.PizzaSize, Me.Status})
         Me.OrderDataGridView.Dock = System.Windows.Forms.DockStyle.Fill
         Me.OrderDataGridView.Location = New System.Drawing.Point(0, 0)
+        Me.OrderDataGridView.MultiSelect = False
         Me.OrderDataGridView.Name = "OrderDataGridView"
+        Me.OrderDataGridView.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.OrderDataGridView.Size = New System.Drawing.Size(562, 328)
         Me.OrderDataGridView.TabIndex = 0
         '
@@ -147,6 +156,52 @@ Partial Class Orders
         Me.CloseOrderButton.Text = "Close Order"
         Me.CloseOrderButton.UseVisualStyleBackColor = True
         '
+        'OrderNumber
+        '
+        Me.OrderNumber.DataPropertyName = "OrderNumber"
+        Me.OrderNumber.HeaderText = "OrderNumber"
+        Me.OrderNumber.Name = "OrderNumber"
+        Me.OrderNumber.Visible = False
+        '
+        'CustomerName
+        '
+        Me.CustomerName.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader
+        Me.CustomerName.DataPropertyName = "CustomerName"
+        Me.CustomerName.HeaderText = "Customer name"
+        Me.CustomerName.Name = "CustomerName"
+        Me.CustomerName.Width = 96
+        '
+        'CustomerContact
+        '
+        Me.CustomerContact.DataPropertyName = "CustomerContact"
+        Me.CustomerContact.HeaderText = "Customer Contact"
+        Me.CustomerContact.Name = "CustomerContact"
+        Me.CustomerContact.Visible = False
+        '
+        'DeliveryAddress
+        '
+        Me.DeliveryAddress.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader
+        Me.DeliveryAddress.DataPropertyName = "DeliveryAddress"
+        Me.DeliveryAddress.HeaderText = "Delivery Address"
+        Me.DeliveryAddress.Name = "DeliveryAddress"
+        Me.DeliveryAddress.Width = 102
+        '
+        'PizzaSize
+        '
+        Me.PizzaSize.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader
+        Me.PizzaSize.DataPropertyName = "PizzaSize"
+        Me.PizzaSize.HeaderText = "Size"
+        Me.PizzaSize.Name = "PizzaSize"
+        Me.PizzaSize.Width = 52
+        '
+        'Status
+        '
+        Me.Status.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader
+        Me.Status.DataPropertyName = "OrderStatus"
+        Me.Status.HeaderText = "Status"
+        Me.Status.Name = "Status"
+        Me.Status.Width = 62
+        '
         'Orders
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -186,4 +241,10 @@ Partial Class Orders
     Friend WithEvents OpenOrderButton As System.Windows.Forms.Button
     Friend WithEvents CloseOrderButton As System.Windows.Forms.Button
     Friend WithEvents OrderDataGridView As System.Windows.Forms.DataGridView
+    Friend WithEvents OrderNumber As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents CustomerName As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents CustomerContact As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents DeliveryAddress As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents PizzaSize As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents Status As System.Windows.Forms.DataGridViewTextBoxColumn
 End Class

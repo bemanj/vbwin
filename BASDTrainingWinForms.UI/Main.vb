@@ -30,13 +30,13 @@ Public Class Main
     Private Sub ThreadSampleOneButton_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ThreadSampleOneButton.Click
         Me.ThreadSampleOneButton.Enabled = False
         Me.threadingBackgroundWorker.WorkerReportsProgress = True
-        Me.threadingBackgroundWorker.RunWorkerAsync()
+        Me.threadingBackgroundWorker.RunWorkerAsync("asdkjaskd")
 
     End Sub
 
     Private Sub threadingBackgroundWorker_DoWork(ByVal sender As System.Object, ByVal e As System.ComponentModel.DoWorkEventArgs) Handles threadingBackgroundWorker.DoWork
         Try
-
+            'e.Argument
             Dim counter As Integer
             counter = 0
             Do
