@@ -34,3 +34,4 @@ C:\Users\rm004134263\source\repos\vbwin\BASDTrainingWinForms.UI\bin\Debug\Cipher
 C:\Users\rm004134263\source\repos\vbwin\BASDTrainingWinForms.UI\bin\Debug\BASDTRaining.Commons.pdb
 C:\Users\rm004134263\source\repos\vbwin\BASDTrainingWinForms.UI\bin\Debug\BASDTRaining.Commons.xml
 C:\Users\rm004134263\source\repos\vbwin\BASDTrainingWinForms.UI\bin\Debug\Cipher.pdb
+C:\Users\rm004134263\source\repos\vbwin\BASDTrainingWinForms.UI\obj\x86\Debug\BASDTrainingWinForms.UI.myform.resources
