@@ -3,10 +3,10 @@ Imports System.Data.SqlClient
 Imports System.Reflection
 Imports System
 
-Module EntityExtensions
+Public Module EntityExtensions
 
     <Extension()>
-    Sub MapParameters(ByVal command As SqlCommand, ByVal paramList As SqlParameter())
+    Public Sub MapParameters(ByVal command As SqlCommand, ByVal paramList As SqlParameter())
         If paramList Is Nothing Then Return
         If paramList.Length = 0 Then Return
         If command.CommandType <> CommandType.StoredProcedure Then Throw New Exception("Cannot derive parameters, stored procedure is required.")
@@ -20,7 +20,7 @@ Module EntityExtensions
     End Sub
 
     <Extension()>
-    Function SingleMapToEntity(Of T As New)(ByVal table As DataTable) As List(Of T)
+    Public Function SingleMapToEntity(Of T As New)(ByVal table As DataTable) As List(Of T)
         Dim _targetType As Type = GetType(T)
         Dim _columns As DataColumn() = table.Columns.Cast(Of DataColumn)().ToArray()
         Dim _list As List(Of T) = New List(Of T)()
@@ -47,7 +47,7 @@ Module EntityExtensions
     End Function
 
     <Extension()>
-    Function SingleMapToEntity(Of T As New)(ByVal table As DataTable, ByVal primaryKey As String) As List(Of T)
+    Public Function SingleMapToEntity(Of T As New)(ByVal table As DataTable, ByVal primaryKey As String) As List(Of T)
         Dim _targetType As Type = GetType(T)
         Dim _columns As DataColumn() = table.Columns.Cast(Of DataColumn)().ToArray()
         Dim _list As List(Of T) = New List(Of T)()
@@ -62,7 +62,7 @@ Module EntityExtensions
                     Else
                         _value = If(dr(col.ColumnName).[GetType]() = GetType(DBNull), Nothing, dr(col.ColumnName))
                     End If
-                    
+
                     _info.SetValue(_data, IIf(dr(col.ColumnName).GetType() = GetType(DBNull), Nothing, _value), Nothing)
                 End If
             Next
@@ -71,6 +71,22 @@ Module EntityExtensions
         Next
 
         Return _list
+    End Function
+
+    <Extension()>
+    Public Function Encrypt(ByVal inString As String, Optional ByVal provider As BASDCryptoProvider = BASDCryptoProvider.Trides) As String
+
+        Dim _crypto As New BaseCrypto(provider)
+        Return _crypto.EncryptString(inString)
+
+    End Function
+
+    <Extension()>
+    Public Function Decrypt(ByVal inString As String, Optional ByVal provider As BASDCryptoProvider = BASDCryptoProvider.Trides) As String
+
+        Dim _crypto As New BaseCrypto(provider)
+        Return _crypto.DecryptString(inString)
+
     End Function
 
     '<Extension()>

@@ -1,0 +1,12 @@
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Entity\bin\Debug\BASDTraining.Entity.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Entity\bin\Debug\BASDTraining.Entity.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Entity\bin\Debug\BASDTraining.Entity.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Entity\bin\Debug\BASD.Helper.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Entity\bin\Debug\BASD.Helper.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Entity\bin\Debug\BASD.Helper.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Entity\obj\Debug\BASDTraining.Entity.vbprojResolveAssemblyReference.cache
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Entity\obj\Debug\BASDTraining.Entity.Resources.resources
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Entity\obj\Debug\BASDTraining.Entity.vbproj.GenerateResource.Cache
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Entity\obj\Debug\BASDTraining.Entity.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Entity\obj\Debug\BASDTraining.Entity.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Entity\obj\Debug\BASDTraining.Entity.pdb

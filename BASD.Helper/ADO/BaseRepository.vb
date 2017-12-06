@@ -10,32 +10,35 @@ Public MustInherit Class BaseRepository
         MyBase.New(connectionString)
     End Sub
 
-    Public Sub DeleteData(ByVal entity As IEntity) Implements IRepository.DeleteData
+    Public Overridable Sub DeleteData(ByVal entity As IEntity) Implements IRepository.DeleteData
 
         Throw New NotImplementedException()
     End Sub
 
-    Public Function GetData() As IEntity Implements IRepository.GetData
+    Public Overridable Function GetData(ByVal entity As IEntity) As IEntity Implements IRepository.GetData
 
         Throw New NotImplementedException()
 
     End Function
 
-    Public Function InsertData(ByVal entity As IEntity) As Integer Implements IRepository.InsertData
+    Public Overridable Function InsertData(ByVal entity As IEntity) As Integer Implements IRepository.InsertData
 
         Throw New NotImplementedException()
 
     End Function
 
-    Public Function GetListData() As System.Collections.Generic.IEnumerable(Of IEntity) Implements IRepository.GetListData
+    Public Overridable Function GetListData() As System.Collections.Generic.IEnumerable(Of IEntity) Implements IRepository.GetListData
 
         Throw New NotImplementedException()
 
     End Function
 
-    Public Sub UpdateData(ByVal updateEntity As System.Data.SqlClient.SqlParameter, ByVal entity As IEntity) Implements IRepository.UpdateData
+    Public Overridable Sub UpdateData(ByVal updateEntity As System.Data.SqlClient.SqlParameter, ByVal entity As IEntity) Implements IRepository.UpdateData
 
         Throw New NotImplementedException()
 
     End Sub
+
+
+
 End Class

@@ -21,7 +21,7 @@ Public MustInherit Class BaseADO
         End If
     End Sub
 
-    Public Sub Execute(ByVal procedure As String, ByVal param As Object())
+    Protected Sub Execute(ByVal procedure As String, Optional ByVal param As Object() = Nothing)
         If Me._sqlConnection IsNot Nothing Then
             Using sqlCommand As SqlCommand = New SqlCommand(procedure, Me._sqlConnection)
                 sqlCommand.CommandType = CommandType.StoredProcedure
@@ -33,13 +33,16 @@ Public MustInherit Class BaseADO
         End If
     End Sub
 
-    Public Function List(ByVal procedure As String, ByVal param As Object()) As DataTable
+    Protected Function List(ByVal procedure As String, Optional ByVal param As Object() = Nothing) As DataTable
         If Me._sqlConnection IsNot Nothing Then
             Using sqlCommand As SqlCommand = New SqlCommand(procedure, Me._sqlConnection)
                 Using sqlDataAdapter As SqlDataAdapter = New SqlDataAdapter(sqlCommand)
                     Dim dataSet As DataSet = New DataSet()
                     sqlCommand.CommandType = CommandType.StoredProcedure
-                    If param.Length > 0 Then sqlCommand.MapParameters(CType(param, SqlParameter()))
+                    If param IsNot Nothing Then
+                        If param.Length > 0 Then sqlCommand.MapParameters(CType(param, SqlParameter()))
+
+                    End If
                     sqlDataAdapter.Fill(dataSet)
                     If dataSet IsNot Nothing Then Return dataSet.Tables(0)
                     Return New DataTable()
@@ -50,11 +53,14 @@ Public MustInherit Class BaseADO
         End If
     End Function
 
-    Public Function Update(ByVal procedure As String, ByVal param As Object()) As Object
+    Protected Function Update(ByVal procedure As String, ByVal param As Object()) As Object
         If Me._sqlConnection IsNot Nothing Then
             Using sqlCommand As SqlCommand = New SqlCommand(procedure, Me._sqlConnection)
                 sqlCommand.CommandType = CommandType.StoredProcedure
-                If param.Length > 0 Then sqlCommand.MapParameters(CType(param, SqlParameter()))
+                If param IsNot Nothing Then
+                    If param.Length > 0 Then sqlCommand.MapParameters(CType(param, SqlParameter()))
+
+                End If
                 Return sqlCommand.ExecuteScalar()
             End Using
         Else

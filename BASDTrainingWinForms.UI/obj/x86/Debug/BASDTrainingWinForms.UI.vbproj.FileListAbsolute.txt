@@ -11,8 +11,11 @@ C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\
 C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\obj\x86\Debug\BASDTrainingWinForms.UI.Login.resources
 C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\obj\x86\Debug\BASDTrainingWinForms.UI.Orders.resources
 C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\obj\x86\Debug\BASDTrainingWinForms.UI.vbprojResolveAssemblyReference.cache
-C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\bin\Debug\Cipher.dll
 C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\bin\Debug\Cipher.pdb
-C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\bin\Debug\BASDTRaining.Commons.dll
-C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\bin\Debug\BASDTRaining.Commons.pdb
-C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\bin\Debug\BASDTRaining.Commons.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\bin\Debug\BASD.Helper.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\bin\Debug\BASDTraining.Entity.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\bin\Debug\BASD.Helper.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\bin\Debug\BASD.Helper.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\bin\Debug\BASDTraining.Entity.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\bin\Debug\BASDTraining.Entity.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\bin\Debug\BASDTrainingWinForms.UI.exe.config

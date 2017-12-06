@@ -2,20 +2,20 @@
 <doc>
 <assembly>
 <name>
-BASDTRaining.Commons
+BASDTraining.Entity
 </name>
 </assembly>
 <members>
-<member name="P:BASDTRaining.Commons.My.Resources.Resources.ResourceManager">
+<member name="P:BASDTraining.Entity.My.Resources.Resources.ResourceManager">
 	<summary>
   Returns the cached ResourceManager instance used by this class.
 </summary>
-</member><member name="P:BASDTRaining.Commons.My.Resources.Resources.Culture">
+</member><member name="P:BASDTraining.Entity.My.Resources.Resources.Culture">
 	<summary>
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
 </summary>
-</member><member name="T:BASDTRaining.Commons.My.Resources.Resources">
+</member><member name="T:BASDTraining.Entity.My.Resources.Resources">
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
