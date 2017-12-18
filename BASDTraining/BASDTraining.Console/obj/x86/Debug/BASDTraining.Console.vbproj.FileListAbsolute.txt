@@ -1,0 +1,13 @@
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Console\obj\x86\Debug\BASDTraining.Console.Resources.resources
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Console\obj\x86\Debug\BASDTraining.Console.vbproj.GenerateResource.Cache
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Console\bin\Debug\BASDTraining.Console.exe
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Console\bin\Debug\BASDTraining.Console.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Console\bin\Debug\BASDTraining.Console.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Console\obj\x86\Debug\BASDTraining.Console.exe
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Console\obj\x86\Debug\BASDTraining.Console.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Console\obj\x86\Debug\BASDTraining.Console.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Console\bin\Debug\BASDTraining.Console.exe.config
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Console\obj\x86\Debug\BASDTraining.Console.vbprojResolveAssemblyReference.cache
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Console\bin\Debug\BASD.Helper.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Console\bin\Debug\BASD.Helper.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Console\bin\Debug\BASD.Helper.xml

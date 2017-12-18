@@ -1,0 +1,16 @@
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\PizzaDelivery.UnitTest\bin\Debug\PizzaDelivery.UnitTest.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\PizzaDelivery.UnitTest\bin\Debug\PizzaDelivery.UnitTest.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\PizzaDelivery.UnitTest\bin\Debug\PizzaDelivery.UnitTest.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\PizzaDelivery.UnitTest\bin\Debug\BASD.Helper.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\PizzaDelivery.UnitTest\bin\Debug\BASD.Helper.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\PizzaDelivery.UnitTest\bin\Debug\BASD.Helper.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\PizzaDelivery.UnitTest\obj\Debug\PizzaDelivery.UnitTest.vbprojResolveAssemblyReference.cache
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\PizzaDelivery.UnitTest\obj\Debug\PizzaDelivery.UnitTest.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\PizzaDelivery.UnitTest\obj\Debug\PizzaDelivery.UnitTest.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\PizzaDelivery.UnitTest\obj\Debug\PizzaDelivery.UnitTest.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\PizzaDelivery.UnitTest\bin\Debug\BASDTrainingWinForms.UI.exe
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\PizzaDelivery.UnitTest\bin\Debug\BASDTraining.Entity.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\PizzaDelivery.UnitTest\bin\Debug\BASDTrainingWinForms.UI.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\PizzaDelivery.UnitTest\bin\Debug\BASDTrainingWinForms.UI.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\PizzaDelivery.UnitTest\bin\Debug\BASDTraining.Entity.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\PizzaDelivery.UnitTest\bin\Debug\BASDTraining.Entity.xml

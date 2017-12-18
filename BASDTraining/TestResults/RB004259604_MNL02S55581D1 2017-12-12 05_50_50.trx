@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="4025b89b-2a1d-4838-a1c3-175add473036" name="RB004259604@MNL02S55581D1 2017-12-12 05:50:50" runUser="MERCURY\RB004259604" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="acb762e6-aeb6-4f8a-a783-c5ab64753407">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="RB004259604_MNL02S55581D1 2017-12-12 05_50_50">
+      <DeploymentItem filename="C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASD.Helper\bin\Debug\BASD.Helper.dll" />
+      <DeploymentItem filename="C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Console\bin\Debug\BASDTraining.Console.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2017-12-12T05:50:50.5939291-06:00" queuing="2017-12-12T05:50:50.5979291-06:00" start="2017-12-12T05:50:50.6019291-06:00" finish="2017-12-12T05:50:51.0739291-06:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestGetSum2" storage="c:\users\rb004259604\documents\visual studio 2010\projects\basdtrainingwinforms\basdtraining.unittest\bin\debug\basdtraining.unittest.dll" id="930c1a4a-89a8-06ec-8637-09445ecb716c">
+      <Execution id="fbba6f71-7107-49a2-addd-22ddcf288b94" />
+      <TestMethod codeBase="C:/Users/RB004259604/Documents/Visual Studio 2010/Projects/BASDTrainingWinForms/BASDTraining.UnitTest/bin/Debug/BASDTraining.UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BASDTraining.UnitTest.ProgramTest, BASDTraining.UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestGetSum2" />
+    </UnitTest>
+    <UnitTest name="EncryptStringTest" storage="c:\users\rb004259604\documents\visual studio 2010\projects\basdtrainingwinforms\pizzadelivery.unittest\bin\debug\pizzadelivery.unittest.dll" id="a5b9961e-8e8a-b378-fb74-674adad73152">
+      <Execution id="26a06f98-52a4-4216-868c-70ae1eb2ddf4" />
+      <TestMethod codeBase="C:/Users/RB004259604/Documents/Visual Studio 2010/Projects/BASDTrainingWinForms/PizzaDelivery.UnitTest/bin/Debug/PizzaDelivery.UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PizzaDelivery.UnitTest.BaseCryptoUnitTest, PizzaDelivery.UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EncryptStringTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="930c1a4a-89a8-06ec-8637-09445ecb716c" executionId="fbba6f71-7107-49a2-addd-22ddcf288b94" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a5b9961e-8e8a-b378-fb74-674adad73152" executionId="26a06f98-52a4-4216-868c-70ae1eb2ddf4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fbba6f71-7107-49a2-addd-22ddcf288b94" testId="930c1a4a-89a8-06ec-8637-09445ecb716c" testName="TestGetSum2" computerName="MNL02S55581D1" duration="00:00:00.0228712" startTime="2017-12-12T05:50:50.6079291-06:00" endTime="2017-12-12T05:50:50.7729291-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fbba6f71-7107-49a2-addd-22ddcf288b94">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;2&gt;. Actual:&lt;10&gt;. </Message>
+          <StackTrace>   at BASDTraining.UnitTest.ProgramTest.TestGetSum2() in C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.UnitTest\Console\ProgramTest.vb:line 51
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="26a06f98-52a4-4216-868c-70ae1eb2ddf4" testId="a5b9961e-8e8a-b378-fb74-674adad73152" testName="EncryptStringTest" computerName="MNL02S55581D1" duration="00:00:00.1320844" startTime="2017-12-12T05:50:50.7779291-06:00" endTime="2017-12-12T05:50:51.0469291-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="26a06f98-52a4-4216-868c-70ae1eb2ddf4">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method PizzaDelivery.UnitTest.BaseCryptoUnitTest.EncryptStringTest threw exception: 
+System.FormatException: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. </Message>
+          <StackTrace>    at System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at PizzaDelivery.UnitTest.BaseCryptoUnitTest.EncryptStringTest() in C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\PizzaDelivery.UnitTest\BASDTraining.Helper\BaseCryptoUnitTest.vb:line 51
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

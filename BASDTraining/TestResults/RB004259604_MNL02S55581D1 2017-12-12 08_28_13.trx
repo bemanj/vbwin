@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="17931af7-6d35-4fe0-88f1-eb2d1d8119ff" name="RB004259604@MNL02S55581D1 2017-12-12 08:28:13" runUser="MERCURY\RB004259604" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="acb762e6-aeb6-4f8a-a783-c5ab64753407">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="RB004259604_MNL02S55581D1 2017-12-12 08_28_13">
+      <DeploymentItem filename="C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASD.Helper\bin\Debug\BASD.Helper.dll" />
+      <DeploymentItem filename="C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Console\bin\Debug\BASDTraining.Console.exe" />
+      <DeploymentItem filename="C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\bin\Debug\BASDTrainingWinForms.UI.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2017-12-12T08:28:13.0368298-06:00" queuing="2017-12-12T08:28:13.0418303-06:00" start="2017-12-12T08:28:13.0458307-06:00" finish="2017-12-12T08:28:13.3928654-06:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" passed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestGetSum2" storage="c:\users\rb004259604\documents\visual studio 2010\projects\basdtrainingwinforms\basdtraining.unittest\bin\debug\basdtraining.unittest.dll" id="930c1a4a-89a8-06ec-8637-09445ecb716c">
+      <Execution id="2f0ee8c9-9112-4c44-9906-6427ba68d392" />
+      <TestMethod codeBase="C:/Users/RB004259604/Documents/Visual Studio 2010/Projects/BASDTrainingWinForms/BASDTraining.UnitTest/bin/Debug/BASDTraining.UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BASDTraining.UnitTest.ProgramTest, BASDTraining.UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestGetSum2" />
+    </UnitTest>
+    <UnitTest name="EncryptStringTest" storage="c:\users\rb004259604\documents\visual studio 2010\projects\basdtrainingwinforms\pizzadelivery.unittest\bin\debug\pizzadelivery.unittest.dll" id="a5b9961e-8e8a-b378-fb74-674adad73152">
+      <Execution id="527f044c-9137-41cd-adf8-5c8ce5ab1ffc" />
+      <TestMethod codeBase="C:/Users/RB004259604/Documents/Visual Studio 2010/Projects/BASDTrainingWinForms/PizzaDelivery.UnitTest/bin/Debug/PizzaDelivery.UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PizzaDelivery.UnitTest.BaseCryptoUnitTest, PizzaDelivery.UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EncryptStringTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="930c1a4a-89a8-06ec-8637-09445ecb716c" executionId="2f0ee8c9-9112-4c44-9906-6427ba68d392" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a5b9961e-8e8a-b378-fb74-674adad73152" executionId="527f044c-9137-41cd-adf8-5c8ce5ab1ffc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2f0ee8c9-9112-4c44-9906-6427ba68d392" testId="930c1a4a-89a8-06ec-8637-09445ecb716c" testName="TestGetSum2" computerName="MNL02S55581D1" duration="00:00:00.0226716" startTime="2017-12-12T08:28:13.0518313-06:00" endTime="2017-12-12T08:28:13.2208482-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2f0ee8c9-9112-4c44-9906-6427ba68d392">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;System.Collections.Generic.List`1[System.String]&gt;. Actual:&lt;System.Collections.Generic.List`1[System.String]&gt;. </Message>
+          <StackTrace>   at BASDTraining.UnitTest.ProgramTest.TestGetSum2() in C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.UnitTest\Console\ProgramTest.vb:line 55
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="527f044c-9137-41cd-adf8-5c8ce5ab1ffc" testId="a5b9961e-8e8a-b378-fb74-674adad73152" testName="EncryptStringTest" computerName="MNL02S55581D1" duration="00:00:00.0096421" startTime="2017-12-12T08:28:13.2258487-06:00" endTime="2017-12-12T08:28:13.3748636-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="527f044c-9137-41cd-adf8-5c8ce5ab1ffc">
+    </UnitTestResult>
+  </Results>
+</TestRun>

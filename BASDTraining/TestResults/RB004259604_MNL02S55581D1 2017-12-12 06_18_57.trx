@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7a11abec-bf51-4cf1-bc8e-42dead97a1cb" name="RB004259604@MNL02S55581D1 2017-12-12 06:18:57" runUser="MERCURY\RB004259604" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="acb762e6-aeb6-4f8a-a783-c5ab64753407">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="RB004259604_MNL02S55581D1 2017-12-12 06_18_57">
+      <DeploymentItem filename="C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASD.Helper\bin\Debug\BASD.Helper.dll" />
+      <DeploymentItem filename="C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.Console\bin\Debug\BASDTraining.Console.exe" />
+      <DeploymentItem filename="C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\bin\Debug\BASDTrainingWinForms.UI.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2017-12-12T06:18:57.9629291-06:00" queuing="2017-12-12T06:18:58.8199291-06:00" start="2017-12-12T06:18:58.8879291-06:00" finish="2017-12-12T06:19:21.7159291-06:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="2" executed="2" passed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="MNL02S55581D1" outcome="Error" timestamp="2017-12-12T06:19:21.7149291-06:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestGetSum2" storage="c:\users\rb004259604\documents\visual studio 2010\projects\basdtrainingwinforms\basdtraining.unittest\bin\debug\basdtraining.unittest.dll" id="930c1a4a-89a8-06ec-8637-09445ecb716c">
+      <Execution id="1a35e356-af43-40ec-b584-028f707f37bc" />
+      <TestMethod codeBase="C:/Users/RB004259604/Documents/Visual Studio 2010/Projects/BASDTrainingWinForms/BASDTraining.UnitTest/bin/Debug/BASDTraining.UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BASDTraining.UnitTest.ProgramTest, BASDTraining.UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestGetSum2" />
+    </UnitTest>
+    <UnitTest name="EncryptStringTest" storage="c:\users\rb004259604\documents\visual studio 2010\projects\basdtrainingwinforms\pizzadelivery.unittest\bin\debug\pizzadelivery.unittest.dll" id="a5b9961e-8e8a-b378-fb74-674adad73152">
+      <Execution id="b93392e7-1557-46aa-bcff-ae57e66e1949" />
+      <TestMethod codeBase="C:/Users/RB004259604/Documents/Visual Studio 2010/Projects/BASDTrainingWinForms/PizzaDelivery.UnitTest/bin/Debug/PizzaDelivery.UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PizzaDelivery.UnitTest.BaseCryptoUnitTest, PizzaDelivery.UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EncryptStringTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="930c1a4a-89a8-06ec-8637-09445ecb716c" executionId="1a35e356-af43-40ec-b584-028f707f37bc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a5b9961e-8e8a-b378-fb74-674adad73152" executionId="b93392e7-1557-46aa-bcff-ae57e66e1949" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="1a35e356-af43-40ec-b584-028f707f37bc" testId="930c1a4a-89a8-06ec-8637-09445ecb716c" testName="TestGetSum2" computerName="MNL02S55581D1" duration="00:00:00.0166413" startTime="2017-12-12T06:18:58.9549291-06:00" endTime="2017-12-12T06:19:00.3119291-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1a35e356-af43-40ec-b584-028f707f37bc">
+    </UnitTestResult>
+    <UnitTestResult executionId="b93392e7-1557-46aa-bcff-ae57e66e1949" testId="a5b9961e-8e8a-b378-fb74-674adad73152" testName="EncryptStringTest" computerName="MNL02S55581D1" duration="00:00:21.3960000" startTime="2017-12-12T06:19:00.3199291-06:00" endTime="2017-12-12T06:19:21.7159291-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b93392e7-1557-46aa-bcff-ae57e66e1949">
+    </UnitTestResult>
+  </Results>
+</TestRun>

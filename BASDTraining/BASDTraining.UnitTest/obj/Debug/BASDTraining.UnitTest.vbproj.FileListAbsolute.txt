@@ -1,0 +1,10 @@
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.UnitTest\bin\Debug\BASDTraining.UnitTest.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.UnitTest\bin\Debug\BASDTraining.UnitTest.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.UnitTest\bin\Debug\BASDTraining.UnitTest.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.UnitTest\bin\Debug\BASDTraining.Console.exe
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.UnitTest\bin\Debug\BASDTraining.Console.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.UnitTest\bin\Debug\BASDTraining.Console.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.UnitTest\obj\Debug\BASDTraining.UnitTest.vbprojResolveAssemblyReference.cache
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.UnitTest\obj\Debug\BASDTraining.UnitTest.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.UnitTest\obj\Debug\BASDTraining.UnitTest.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining.UnitTest\obj\Debug\BASDTraining.UnitTest.pdb

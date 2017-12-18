@@ -1,0 +1,13 @@
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASD.Cryptography\bin\Debug\BASD.Cryptography.exe
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASD.Cryptography\bin\Debug\BASD.Cryptography.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASD.Cryptography\bin\Debug\BASD.Cryptography.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASD.Cryptography\bin\Debug\BASD.Helper.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASD.Cryptography\bin\Debug\BASD.Helper.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASD.Cryptography\bin\Debug\BASD.Helper.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASD.Cryptography\obj\x86\Debug\BASD.Cryptography.vbprojResolveAssemblyReference.cache
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASD.Cryptography\obj\x86\Debug\BASD.Cryptography.CryptographyForm.resources
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASD.Cryptography\obj\x86\Debug\BASD.Cryptography.Resources.resources
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASD.Cryptography\obj\x86\Debug\BASD.Cryptography.vbproj.GenerateResource.Cache
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASD.Cryptography\obj\x86\Debug\BASD.Cryptography.exe
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASD.Cryptography\obj\x86\Debug\BASD.Cryptography.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASD.Cryptography\obj\x86\Debug\BASD.Cryptography.pdb
