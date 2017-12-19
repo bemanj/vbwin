@@ -22,16 +22,16 @@ Partial Class Main
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.EmployeeDataGridView = New System.Windows.Forms.DataGridView()
-        Me.AddEmployeeButton = New System.Windows.Forms.Button()
-        Me.ExitButton = New System.Windows.Forms.Button()
         Me.Firstname = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Lastname = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Rate = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Id = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.EmployeeType = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.AddEmployeeButton = New System.Windows.Forms.Button()
+        Me.ExitButton = New System.Windows.Forms.Button()
         Me.Panel1.SuspendLayout()
         CType(Me.EmployeeDataGridView, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -59,24 +59,6 @@ Partial Class Main
         Me.EmployeeDataGridView.Size = New System.Drawing.Size(705, 441)
         Me.EmployeeDataGridView.TabIndex = 0
         '
-        'AddEmployeeButton
-        '
-        Me.AddEmployeeButton.Location = New System.Drawing.Point(561, 12)
-        Me.AddEmployeeButton.Name = "AddEmployeeButton"
-        Me.AddEmployeeButton.Size = New System.Drawing.Size(75, 23)
-        Me.AddEmployeeButton.TabIndex = 1
-        Me.AddEmployeeButton.Text = "Add Record"
-        Me.AddEmployeeButton.UseVisualStyleBackColor = True
-        '
-        'ExitButton
-        '
-        Me.ExitButton.Location = New System.Drawing.Point(642, 12)
-        Me.ExitButton.Name = "ExitButton"
-        Me.ExitButton.Size = New System.Drawing.Size(75, 23)
-        Me.ExitButton.TabIndex = 2
-        Me.ExitButton.Text = "Exit"
-        Me.ExitButton.UseVisualStyleBackColor = True
-        '
         'Firstname
         '
         Me.Firstname.DataPropertyName = "Firstname"
@@ -94,9 +76,9 @@ Partial Class Main
         'Rate
         '
         Me.Rate.DataPropertyName = "Rate"
-        DataGridViewCellStyle1.Format = "N2"
-        DataGridViewCellStyle1.NullValue = Nothing
-        Me.Rate.DefaultCellStyle = DataGridViewCellStyle1
+        DataGridViewCellStyle2.Format = "N2"
+        DataGridViewCellStyle2.NullValue = Nothing
+        Me.Rate.DefaultCellStyle = DataGridViewCellStyle2
         Me.Rate.HeaderText = "Rate"
         Me.Rate.Name = "Rate"
         Me.Rate.ReadOnly = True
@@ -116,6 +98,24 @@ Partial Class Main
         Me.EmployeeType.Name = "EmployeeType"
         Me.EmployeeType.ReadOnly = True
         Me.EmployeeType.Visible = False
+        '
+        'AddEmployeeButton
+        '
+        Me.AddEmployeeButton.Location = New System.Drawing.Point(561, 12)
+        Me.AddEmployeeButton.Name = "AddEmployeeButton"
+        Me.AddEmployeeButton.Size = New System.Drawing.Size(75, 23)
+        Me.AddEmployeeButton.TabIndex = 1
+        Me.AddEmployeeButton.Text = "Add Record"
+        Me.AddEmployeeButton.UseVisualStyleBackColor = True
+        '
+        'ExitButton
+        '
+        Me.ExitButton.Location = New System.Drawing.Point(642, 12)
+        Me.ExitButton.Name = "ExitButton"
+        Me.ExitButton.Size = New System.Drawing.Size(75, 23)
+        Me.ExitButton.TabIndex = 2
+        Me.ExitButton.Text = "Exit"
+        Me.ExitButton.UseVisualStyleBackColor = True
         '
         'Main
         '

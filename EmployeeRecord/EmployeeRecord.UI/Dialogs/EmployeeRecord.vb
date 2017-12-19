@@ -129,4 +129,12 @@
         End If
 
     End Sub
+
+    Private Sub RevertButton_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RevertButton.Click
+
+        FirstnameTextBox.Text = _selectedEmployeeRecord.Firstname
+        LastnameTextBox.Text = _selectedEmployeeRecord.Lastname
+        RateTextBox.Text = _selectedEmployeeRecord.Rate.ToString
+        EmployeeTypeComboBox.SelectedValue = _selectedEmployeeRecord.EmployeeType
+    End Sub
 End Class

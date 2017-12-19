@@ -33,6 +33,7 @@ Partial Class EmployeeRecord
         Me.DeleteButton = New System.Windows.Forms.Button()
         Me.CloseButton = New System.Windows.Forms.Button()
         Me.RateTextBox = New System.Windows.Forms.TextBox()
+        Me.RevertButton = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'FirstnameTextBox
@@ -131,11 +132,21 @@ Partial Class EmployeeRecord
         Me.RateTextBox.TabIndex = 12
         Me.RateTextBox.Tag = "Rate"
         '
+        'RevertButton
+        '
+        Me.RevertButton.Location = New System.Drawing.Point(255, 122)
+        Me.RevertButton.Name = "RevertButton"
+        Me.RevertButton.Size = New System.Drawing.Size(75, 23)
+        Me.RevertButton.TabIndex = 13
+        Me.RevertButton.Text = "Revert"
+        Me.RevertButton.UseVisualStyleBackColor = True
+        '
         'EmployeeRecord
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(263, 157)
+        Me.ClientSize = New System.Drawing.Size(508, 157)
+        Me.Controls.Add(Me.RevertButton)
         Me.Controls.Add(Me.RateTextBox)
         Me.Controls.Add(Me.CloseButton)
         Me.Controls.Add(Me.DeleteButton)
@@ -165,4 +176,5 @@ Partial Class EmployeeRecord
     Friend WithEvents DeleteButton As System.Windows.Forms.Button
     Friend WithEvents CloseButton As System.Windows.Forms.Button
     Friend WithEvents RateTextBox As System.Windows.Forms.TextBox
+    Friend WithEvents RevertButton As System.Windows.Forms.Button
 End Class
