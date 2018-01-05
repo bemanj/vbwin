@@ -1,0 +1,8 @@
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.Logic\bin\Debug\WinForms.Logic.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.Logic\bin\Debug\WinForms.Logic.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.Logic\bin\Debug\WinForms.Logic.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.Logic\obj\Debug\WinForms.Logic.Resources.resources
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.Logic\obj\Debug\WinForms.Logic.vbproj.GenerateResource.Cache
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.Logic\obj\Debug\WinForms.Logic.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.Logic\obj\Debug\WinForms.Logic.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.Logic\obj\Debug\WinForms.Logic.pdb

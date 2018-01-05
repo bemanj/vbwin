@@ -1,0 +1,14 @@
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.UI\bin\Debug\WinForms.UI.exe
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.UI\bin\Debug\WinForms.UI.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.UI\bin\Debug\WinForms.UI.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.UI\bin\Debug\WinForms.Logic.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.UI\bin\Debug\WinForms.Logic.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.UI\bin\Debug\WinForms.Logic.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.UI\obj\x86\Debug\WinForms.UI.vbprojResolveAssemblyReference.cache
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.UI\obj\x86\Debug\WinForms.UI.Login.resources
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.UI\obj\x86\Debug\WinForms.UI.MainForm.resources
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.UI\obj\x86\Debug\WinForms.UI.Resources.resources
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.UI\obj\x86\Debug\WinForms.UI.vbproj.GenerateResource.Cache
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.UI\obj\x86\Debug\WinForms.UI.exe
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.UI\obj\x86\Debug\WinForms.UI.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.UI\obj\x86\Debug\WinForms.UI.pdb
