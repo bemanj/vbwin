@@ -17,3 +17,7 @@ C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\
 C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\obj\x86\Debug\BASDTrainingWinForms.UI.LoginForm.resources
 C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\obj\x86\Debug\BASDTrainingWinForms.UI.OrdersForm.resources
 C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTrainingWinForms.UI\obj\x86\Debug\BASDTrainingWinForms.UI.PizzaOrderForm.resources
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining\BASDTrainingWinForms.UI\bin\Debug\BASDTrainingWinForms.UI.exe.config
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining\BASDTrainingWinForms.UI\obj\x86\Debug\BASDTrainingWinForms.UI.exe
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining\BASDTrainingWinForms.UI\obj\x86\Debug\BASDTrainingWinForms.UI.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\BASDTraining\BASDTrainingWinForms.UI\obj\x86\Debug\BASDTrainingWinForms.UI.pdb

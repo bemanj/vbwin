@@ -1,0 +1,8 @@
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\EmployeeRecordArray\EmployeeRecordArray\EmployeeRecord.UI\obj\x86\Debug\EmployeeRecord.UI.Resources.resources
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\EmployeeRecordArray\EmployeeRecordArray\EmployeeRecord.UI\obj\x86\Debug\EmployeeRecord.UI.vbproj.GenerateResource.Cache
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\EmployeeRecordArray\EmployeeRecordArray\EmployeeRecord.UI\bin\Debug\EmployeeRecord.UI.exe
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\EmployeeRecordArray\EmployeeRecordArray\EmployeeRecord.UI\bin\Debug\EmployeeRecord.UI.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\EmployeeRecordArray\EmployeeRecordArray\EmployeeRecord.UI\bin\Debug\EmployeeRecord.UI.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\EmployeeRecordArray\EmployeeRecordArray\EmployeeRecord.UI\obj\x86\Debug\EmployeeRecord.UI.exe
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\EmployeeRecordArray\EmployeeRecordArray\EmployeeRecord.UI\obj\x86\Debug\EmployeeRecord.UI.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\EmployeeRecordArray\EmployeeRecordArray\EmployeeRecord.UI\obj\x86\Debug\EmployeeRecord.UI.pdb

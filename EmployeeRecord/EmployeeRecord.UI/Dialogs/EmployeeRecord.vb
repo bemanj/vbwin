@@ -103,7 +103,7 @@
         Return True
     End Function
 
-    Public Sub ClearFields()
+    Public Sub ClearFields(ByVal t As String)
         Try
             For Each formControls In Me.Controls()
                 If formControls.GetType() = GetType(TextBox) Then

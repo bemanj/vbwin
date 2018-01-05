@@ -1,0 +1,8 @@
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\EmployeeRecord\DL\obj\Debug\DL.Resources.resources
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\EmployeeRecord\DL\obj\Debug\DL.vbproj.GenerateResource.Cache
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\EmployeeRecord\DL\bin\Debug\DL.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\EmployeeRecord\DL\bin\Debug\DL.pdb
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\EmployeeRecord\DL\bin\Debug\DL.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\EmployeeRecord\DL\obj\Debug\DL.dll
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\EmployeeRecord\DL\obj\Debug\DL.xml
+C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\EmployeeRecord\DL\obj\Debug\DL.pdb
