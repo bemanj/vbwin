@@ -12,3 +12,6 @@ C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\
 C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.UI\obj\x86\Debug\WinForms.UI.exe
 C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.UI\obj\x86\Debug\WinForms.UI.xml
 C:\Users\RB004259604\Documents\Visual Studio 2010\Projects\BASDTrainingWinForms\WinForms\WinForms.UI\obj\x86\Debug\WinForms.UI.pdb
+C:\Users\RB004259604\Documents\projects\vbwin\WinForms\WinForms.UI\obj\x86\Debug\WinForms.UI.exe
+C:\Users\RB004259604\Documents\projects\vbwin\WinForms\WinForms.UI\obj\x86\Debug\WinForms.UI.xml
+C:\Users\RB004259604\Documents\projects\vbwin\WinForms\WinForms.UI\obj\x86\Debug\WinForms.UI.pdb
