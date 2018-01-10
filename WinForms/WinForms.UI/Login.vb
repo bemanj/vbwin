@@ -8,7 +8,7 @@
     End Sub
 
     Private Sub CloseButton_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CloseButton.Click
-        MessageBox.Show("asodkd")
+        MessageBox.Show("asod")
         Application.Exit()
     End Sub
 End Class
